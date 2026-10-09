@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web-fukuoka.github.io/batten-labo/sitemap.xml

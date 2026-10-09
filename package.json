@@ -1,0 +1,12 @@
+{
+  "name": "batten-labo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "ばってんLabo 公式サイト（ビルド不要の静的サイト）",
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "test": "node --test tests/estimate.test.mjs",
+    "test:e2e": "node tests/e2e.mjs"
+  }
+}
